@@ -1,3 +1,4 @@
+//day 6 out of 100
 #include <iostream>
 #include <string>
 using namespace std;
