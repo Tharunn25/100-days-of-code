@@ -1,3 +1,4 @@
+//day 8 out of 100
 #include <iostream>
 using namespace std;
 
