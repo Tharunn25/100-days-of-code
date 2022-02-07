@@ -1,4 +1,5 @@
 // C++ program to calculate the average marks of two students
+//day 9 out of 100
 
 #include <iostream>
 using namespace std;
