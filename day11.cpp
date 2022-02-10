@@ -1,6 +1,4 @@
-// C++ program to overload the binary operator +
-// This program adds two complex numbers
-
+// day  11 out of 100
 #include <iostream>
 using namespace std;
 
