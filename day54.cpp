@@ -35,7 +35,7 @@ void deletion(Node **head_ref, int k)
     data va store pandrom*/
     Node *temp = *head_ref;
 
-    // Node* prev = NULL;
+     Node* prev = NULL;
 
     if (temp != NULL && temp->data == k)
     {
