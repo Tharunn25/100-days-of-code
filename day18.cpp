@@ -1,4 +1,5 @@
 //day 18 out of 100
+
 #include<iostream>
 #include<vector>
 using namespace std;
