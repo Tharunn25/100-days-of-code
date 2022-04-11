@@ -13,7 +13,7 @@ int main() {
         // store input number in arr[i]
         cin >> *(arr + i) ;
 
-    }
+  }
 
     // Display data using pointer notation
     cout << "Displaying data: " << endl;
