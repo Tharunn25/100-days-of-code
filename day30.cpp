@@ -19,6 +19,7 @@ class Derived : public Base {
     }
 };
 
+
 int main() {
     Derived derived1, derived2;
     derived1.print();
