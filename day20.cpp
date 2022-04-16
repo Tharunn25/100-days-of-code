@@ -1,4 +1,5 @@
-// day 20 out of 100;
+// day 20 out of 100
+
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
