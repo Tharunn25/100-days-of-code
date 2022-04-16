@@ -1,5 +1,6 @@
 // day 43 out of 100
 // binary search question
+
 class Solution
 {
 public:
