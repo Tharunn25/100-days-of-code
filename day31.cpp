@@ -1,4 +1,5 @@
 //day 31 out of 100
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
