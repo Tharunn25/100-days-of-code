@@ -1,4 +1,5 @@
 //day 12 out of 100
+
 #include <iostream>
 
 using namespace std;
