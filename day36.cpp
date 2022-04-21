@@ -1,4 +1,4 @@
-//day 36 out 
+//day 36 out of 100
 #include <bits/stdc++.h>
 using namespace std;
 
