@@ -1,6 +1,7 @@
 //day 10 out of 100
 
 #include <iostream>
+
 using namespace std;
 class value{
    private:
