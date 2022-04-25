@@ -1,6 +1,7 @@
 //day 5 of 100
 
 #include <iostream>
+
 using namespace std;
 
 struct Person
