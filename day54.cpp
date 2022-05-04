@@ -26,6 +26,7 @@ void push(Node **head_ref, int new_data)
     (*head_ref) = new_node;
 }
 
+
 // node ah delete pandrathuku oru function ah create pandrom
 
 void deletion(Node **head_ref, int k)
