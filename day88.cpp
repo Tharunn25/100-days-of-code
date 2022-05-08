@@ -1,6 +1,7 @@
 // day 88 out of 100
 
 // cpp program to find the given array is palindrome or nor like every element in the array should
+
 // palindrom for that
 
 class Solution
