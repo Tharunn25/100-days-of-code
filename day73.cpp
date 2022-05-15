@@ -13,6 +13,7 @@ int gcd(int a, int b)
 }
 
 int main()
+    
 {
     int a = 10, b = 15;
     cout << "GCD(" << a << ", "
