@@ -1,9 +1,8 @@
-
+// day 112 out of 200
 #include <iostream>
 #include <string>
 using namespace std;
- 
-// Function to remove adjacent duplicates characters from a string
+
 void removeDuplicates(string &s)
 {
     char prev;
