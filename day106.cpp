@@ -2,6 +2,7 @@
 // C++ program to demonstrate uses of some string function
 
 #include <bits/stdc++.h>
+
 using namespace std;
 
 string returnFloatingPart(string str)
