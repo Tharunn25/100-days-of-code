@@ -1,4 +1,5 @@
 // day 106 out of 100
+
 // C++ program to demonstrate uses of some string function
 
 #include <bits/stdc++.h>
