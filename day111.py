@@ -8,5 +8,6 @@ conn.execute(''' CREATE TABLE SRMIST
              AGE     INT,
              ADDRESS CHAR,
              GRADE   INT);''')
+
 print("The database has been created successfully")
 conn.close()
