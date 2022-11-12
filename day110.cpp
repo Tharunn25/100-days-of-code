@@ -25,6 +25,7 @@ void zig_zag_array(int nums[], int n)
     }
 }
 
+
 int main()
 {
     int nums[] = {0, 1, 3, 4, 5, 6, 7, 8, 10};
